@@ -1,0 +1,6 @@
+   0 touch myfirstbashscript.sh
+   1 chmod 744 myfirstbashscript.sh 
+   2 nano myfirstbashscript.sh 
+   3 ./myfirstbashscript.sh 
+   4 export_file myfirstbashscript.sh 
+   5 history > historyhomework17.03.2023
